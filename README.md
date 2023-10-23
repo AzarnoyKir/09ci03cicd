@@ -5,9 +5,9 @@
 Знакомство с Nexus
 
 В ответе пришлите файл maven-metadata.xml для этого артефекта.
-https://github.com/AzarnoyKir/09ci03cicd/blob/f4dcc19db84081ac0c4e4cbf96dd5331475c2f89/XML/maven-metadata.xml
+https://github.com/AzarnoyKir/09ci03cicd/blob/a8d2bb7d7bb89c66fd2af66d9625812ec61fb286/xml/maven-metadata.xml
 
 Знакомство с Maven
 
 В ответе пришлите исправленный файл pom.xml
-https://github.com/AzarnoyKir/09ci03cicd/blob/f4dcc19db84081ac0c4e4cbf96dd5331475c2f89/XML/pom.xml
+https://github.com/AzarnoyKir/09ci03cicd/blob/a8d2bb7d7bb89c66fd2af66d9625812ec61fb286/xml/pom.xml
